@@ -1,0 +1,13 @@
+E:\项目\CouponMall\Presentation\BrnMall.Web\plugins\BrnMall.OAuthPlugin.QQ\db.config
+E:\项目\CouponMall\Presentation\BrnMall.Web\plugins\BrnMall.OAuthPlugin.QQ\plugin.config
+E:\项目\CouponMall\Presentation\BrnMall.Web\plugins\BrnMall.OAuthPlugin.QQ\views\adminqqoauth\config.cshtml
+E:\项目\CouponMall\Presentation\BrnMall.Web\plugins\BrnMall.OAuthPlugin.QQ\CouponMall.OAuthPlugin.QQ.dll
+E:\项目\CouponMall\Presentation\BrnMall.Web\plugins\BrnMall.OAuthPlugin.QQ\CouponMall.OAuthPlugin.QQ.pdb
+E:\项目\CouponMall\Plugins\CouponMall.OAuthPlugin.QQ\obj\Release\CouponMall.OAuthPlugin.QQ.dll
+E:\项目\CouponMall\Plugins\CouponMall.OAuthPlugin.QQ\obj\Release\CouponMall.OAuthPlugin.QQ.pdb
+E:\项目\CouponMall\Presentation\CouponMall.Web\plugins\CouponMall.OAuthPlugin.QQ\db.config
+E:\项目\CouponMall\Presentation\CouponMall.Web\plugins\CouponMall.OAuthPlugin.QQ\plugin.config
+E:\项目\CouponMall\Presentation\CouponMall.Web\plugins\CouponMall.OAuthPlugin.QQ\views\adminqqoauth\config.cshtml
+E:\项目\CouponMall\Presentation\CouponMall.Web\plugins\CouponMall.OAuthPlugin.QQ\CouponMall.OAuthPlugin.QQ.dll
+E:\项目\CouponMall\Presentation\CouponMall.Web\plugins\CouponMall.OAuthPlugin.QQ\CouponMall.OAuthPlugin.QQ.pdb
+E:\项目\CouponMall\Plugins\CouponMall.OAuthPlugin.QQ\obj\Release\CouponMall.OAuthPlugin.QQ.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+E:\项目\CouponMall\Presentation\CouponMall.Web\bin\CouponMall.Web.StoreAdmin.dll
+E:\项目\CouponMall\Presentation\CouponMall.Web\bin\CouponMall.Web.StoreAdmin.pdb
+E:\项目\CouponMall\Presentation\CouponMall.Web\admin_store\obj\Release\CouponMall.Web.StoreAdmin.csprojResolveAssemblyReference.cache
+E:\项目\CouponMall\Presentation\CouponMall.Web\admin_store\obj\Release\CouponMall.Web.StoreAdmin.dll
+E:\项目\CouponMall\Presentation\CouponMall.Web\admin_store\obj\Release\CouponMall.Web.StoreAdmin.pdb

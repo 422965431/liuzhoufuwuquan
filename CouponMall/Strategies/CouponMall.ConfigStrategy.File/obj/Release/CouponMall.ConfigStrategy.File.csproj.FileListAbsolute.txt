@@ -1,0 +1,7 @@
+E:\项目\CouponMall\Presentation\BrnMall.Web\bin\CouponMall.ConfigStrategy.File.dll
+E:\项目\CouponMall\Presentation\BrnMall.Web\bin\CouponMall.ConfigStrategy.File.pdb
+E:\项目\CouponMall\Strategies\CouponMall.ConfigStrategy.File\obj\Release\CouponMall.ConfigStrategy.File.csprojResolveAssemblyReference.cache
+E:\项目\CouponMall\Strategies\CouponMall.ConfigStrategy.File\obj\Release\CouponMall.ConfigStrategy.File.dll
+E:\项目\CouponMall\Strategies\CouponMall.ConfigStrategy.File\obj\Release\CouponMall.ConfigStrategy.File.pdb
+E:\项目\CouponMall\Presentation\CouponMall.Web\bin\CouponMall.ConfigStrategy.File.dll
+E:\项目\CouponMall\Presentation\CouponMall.Web\bin\CouponMall.ConfigStrategy.File.pdb

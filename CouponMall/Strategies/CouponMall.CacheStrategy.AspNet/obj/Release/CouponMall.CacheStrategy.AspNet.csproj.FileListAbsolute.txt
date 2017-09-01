@@ -1,0 +1,7 @@
+E:\项目\CouponMall\Presentation\BrnMall.Web\bin\CouponMall.CacheStrategy.AspNet.dll
+E:\项目\CouponMall\Presentation\BrnMall.Web\bin\CouponMall.CacheStrategy.AspNet.pdb
+E:\项目\CouponMall\Strategies\CouponMall.CacheStrategy.AspNet\obj\Release\CouponMall.CacheStrategy.AspNet.csprojResolveAssemblyReference.cache
+E:\项目\CouponMall\Strategies\CouponMall.CacheStrategy.AspNet\obj\Release\CouponMall.CacheStrategy.AspNet.dll
+E:\项目\CouponMall\Strategies\CouponMall.CacheStrategy.AspNet\obj\Release\CouponMall.CacheStrategy.AspNet.pdb
+E:\项目\CouponMall\Presentation\CouponMall.Web\bin\CouponMall.CacheStrategy.AspNet.dll
+E:\项目\CouponMall\Presentation\CouponMall.Web\bin\CouponMall.CacheStrategy.AspNet.pdb

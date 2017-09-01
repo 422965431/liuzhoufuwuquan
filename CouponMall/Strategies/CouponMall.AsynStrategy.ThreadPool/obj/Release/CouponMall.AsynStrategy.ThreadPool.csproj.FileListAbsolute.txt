@@ -1,0 +1,7 @@
+E:\项目\CouponMall\Presentation\BrnMall.Web\bin\CouponMall.AsynStrategy.ThreadPool.dll
+E:\项目\CouponMall\Presentation\BrnMall.Web\bin\CouponMall.AsynStrategy.ThreadPool.pdb
+E:\项目\CouponMall\Strategies\CouponMall.AsynStrategy.ThreadPool\obj\Release\CouponMall.AsynStrategy.ThreadPool.csprojResolveAssemblyReference.cache
+E:\项目\CouponMall\Strategies\CouponMall.AsynStrategy.ThreadPool\obj\Release\CouponMall.AsynStrategy.ThreadPool.dll
+E:\项目\CouponMall\Strategies\CouponMall.AsynStrategy.ThreadPool\obj\Release\CouponMall.AsynStrategy.ThreadPool.pdb
+E:\项目\CouponMall\Presentation\CouponMall.Web\bin\CouponMall.AsynStrategy.ThreadPool.dll
+E:\项目\CouponMall\Presentation\CouponMall.Web\bin\CouponMall.AsynStrategy.ThreadPool.pdb

@@ -1,0 +1,7 @@
+E:\项目\CouponMall\Presentation\BrnMall.Web\bin\CouponMall.IPSeekStrategy.IPFile.dll
+E:\项目\CouponMall\Presentation\BrnMall.Web\bin\CouponMall.IPSeekStrategy.IPFile.pdb
+E:\项目\CouponMall\Presentation\CouponMall.Web\bin\CouponMall.IPSeekStrategy.IPFile.dll
+E:\项目\CouponMall\Presentation\CouponMall.Web\bin\CouponMall.IPSeekStrategy.IPFile.pdb
+E:\项目\CouponMall\Strategies\CouponMall.IPSeekStrategy.IPFile\obj\Debug\CouponMall.IPSeekStrategy.IPFile.dll
+E:\项目\CouponMall\Strategies\CouponMall.IPSeekStrategy.IPFile\obj\Debug\CouponMall.IPSeekStrategy.IPFile.pdb
+E:\项目\CouponMall\Strategies\CouponMall.IPSeekStrategy.IPFile\obj\Debug\CouponMall.IPSeekStrategy.IPFile.csprojResolveAssemblyReference.cache

@@ -1,0 +1,7 @@
+E:\项目\CouponMall\Presentation\BrnMall.Web\bin\CouponMall.SearchStrategy.SqlServer.dll
+E:\项目\CouponMall\Presentation\BrnMall.Web\bin\CouponMall.SearchStrategy.SqlServer.pdb
+E:\项目\CouponMall\Presentation\CouponMall.Web\bin\CouponMall.SearchStrategy.SqlServer.dll
+E:\项目\CouponMall\Presentation\CouponMall.Web\bin\CouponMall.SearchStrategy.SqlServer.pdb
+E:\项目\CouponMall\Strategies\CouponMall.SearchStrategy.SqlServer\obj\Debug\CouponMall.SearchStrategy.SqlServer.csprojResolveAssemblyReference.cache
+E:\项目\CouponMall\Strategies\CouponMall.SearchStrategy.SqlServer\obj\Debug\CouponMall.SearchStrategy.SqlServer.dll
+E:\项目\CouponMall\Strategies\CouponMall.SearchStrategy.SqlServer\obj\Debug\CouponMall.SearchStrategy.SqlServer.pdb

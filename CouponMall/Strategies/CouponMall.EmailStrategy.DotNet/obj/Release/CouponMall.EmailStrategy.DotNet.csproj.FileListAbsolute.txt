@@ -1,0 +1,7 @@
+E:\项目\CouponMall\Presentation\BrnMall.Web\bin\CouponMall.EmailStrategy.DotNet.dll
+E:\项目\CouponMall\Presentation\BrnMall.Web\bin\CouponMall.EmailStrategy.DotNet.pdb
+E:\项目\CouponMall\Strategies\CouponMall.EmailStrategy.DotNet\obj\Release\CouponMall.EmailStrategy.DotNet.dll
+E:\项目\CouponMall\Strategies\CouponMall.EmailStrategy.DotNet\obj\Release\CouponMall.EmailStrategy.DotNet.pdb
+E:\项目\CouponMall\Presentation\CouponMall.Web\bin\CouponMall.EmailStrategy.DotNet.dll
+E:\项目\CouponMall\Presentation\CouponMall.Web\bin\CouponMall.EmailStrategy.DotNet.pdb
+E:\项目\CouponMall\Strategies\CouponMall.EmailStrategy.DotNet\obj\Release\CouponMall.EmailStrategy.DotNet.csprojResolveAssemblyReference.cache

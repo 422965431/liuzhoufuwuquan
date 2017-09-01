@@ -1,0 +1,7 @@
+E:\项目\CouponMall\Presentation\BrnMall.Web\bin\CouponMall.SessionStrategy.AspNetCache.dll
+E:\项目\CouponMall\Presentation\BrnMall.Web\bin\CouponMall.SessionStrategy.AspNetCache.pdb
+E:\项目\CouponMall\Presentation\CouponMall.Web\bin\CouponMall.SessionStrategy.AspNetCache.dll
+E:\项目\CouponMall\Presentation\CouponMall.Web\bin\CouponMall.SessionStrategy.AspNetCache.pdb
+E:\项目\CouponMall\Strategies\CouponMall.SessionStrategy.AspNetCache\obj\Debug\CouponMall.SessionStrategy.AspNetCache.csprojResolveAssemblyReference.cache
+E:\项目\CouponMall\Strategies\CouponMall.SessionStrategy.AspNetCache\obj\Debug\CouponMall.SessionStrategy.AspNetCache.dll
+E:\项目\CouponMall\Strategies\CouponMall.SessionStrategy.AspNetCache\obj\Debug\CouponMall.SessionStrategy.AspNetCache.pdb

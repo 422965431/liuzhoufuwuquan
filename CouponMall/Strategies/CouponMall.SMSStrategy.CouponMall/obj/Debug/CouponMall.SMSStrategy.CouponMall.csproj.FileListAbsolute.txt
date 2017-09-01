@@ -1,0 +1,7 @@
+E:\项目\CouponMall\Presentation\BrnMall.Web\bin\CouponMall.SMSStrategy.BrnMall.dll
+E:\项目\CouponMall\Presentation\BrnMall.Web\bin\CouponMall.SMSStrategy.BrnMall.pdb
+E:\项目\CouponMall\Presentation\CouponMall.Web\bin\CouponMall.SMSStrategy.BrnMall.dll
+E:\项目\CouponMall\Presentation\CouponMall.Web\bin\CouponMall.SMSStrategy.BrnMall.pdb
+E:\项目\CouponMall\Strategies\CouponMall.SMSStrategy.CouponMall\obj\Debug\CouponMall.SMSStrategy.BrnMall.dll
+E:\项目\CouponMall\Strategies\CouponMall.SMSStrategy.CouponMall\obj\Debug\CouponMall.SMSStrategy.BrnMall.pdb
+E:\项目\CouponMall\Strategies\CouponMall.SMSStrategy.CouponMall\obj\Debug\CouponMall.SMSStrategy.CouponMall.csprojResolveAssemblyReference.cache

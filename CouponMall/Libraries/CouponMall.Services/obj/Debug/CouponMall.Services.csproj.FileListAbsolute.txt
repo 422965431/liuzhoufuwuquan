@@ -1,0 +1,9 @@
+E:\项目\CouponMall\Libraries\CouponMall.Services\bin\Debug\CouponMall.Services.dll
+E:\项目\CouponMall\Libraries\CouponMall.Services\bin\Debug\CouponMall.Services.pdb
+E:\项目\CouponMall\Libraries\CouponMall.Services\bin\Debug\CouponMall.Core.dll
+E:\项目\CouponMall\Libraries\CouponMall.Services\bin\Debug\CouponMall.Data.dll
+E:\项目\CouponMall\Libraries\CouponMall.Services\bin\Debug\CouponMall.Core.pdb
+E:\项目\CouponMall\Libraries\CouponMall.Services\bin\Debug\CouponMall.Data.pdb
+E:\项目\CouponMall\Libraries\CouponMall.Services\obj\Debug\CouponMall.Services.csprojResolveAssemblyReference.cache
+E:\项目\CouponMall\Libraries\CouponMall.Services\obj\Debug\CouponMall.Services.dll
+E:\项目\CouponMall\Libraries\CouponMall.Services\obj\Debug\CouponMall.Services.pdb

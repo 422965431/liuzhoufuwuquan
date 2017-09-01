@@ -1,0 +1,141 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta name="viewport" content="width=1320">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>注册步骤</title>
+    <link href="" rel="stylesheet" type="text/css" />
+    <link href="" rel="stylesheet" type="text/css" />
+    <link href="" rel="stylesheet" type="text/css" />
+    <link href="" rel="stylesheet" type="text/css" />
+    <script src="" type="text/javascript"></script>
+    <script src="" type="text/javascript"></script>
+</head>
+<body>
+<!--@header-->
+<div class="bigBox" id="member">
+    <div class="box">
+        <!--@会员分页-->
+        <div id="memberR">
+            <h2 id="memberRT">
+            </h2>
+            <!-- 注册进度标识 -->
+            <div class="register_column">
+                <div class="register_border" style="width: 520px; left: 153px;" >
+                </div>
+                <div class="register_radius register_radius1" id="redradius1"  style="left: 150px;">
+                    1
+                </div>
+                <div class="register_radius register_radius2" style="left: 400px;background: #ed5565;">
+                    2
+                </div>
+                <div class="register_radius register_radius3"  style="left: 650px;background: #ed5565;">
+                    3
+                </div>
+                <div class="register_redline">
+                </div>
+                <!-- 文字说明 -->
+                <div class="register_radius1_intro register_radius_same" style="left: 122px;">
+                    选择店铺类型
+                </div>
+                <div class="register_radius2_intro register_radius_same" style="left: 375px;">
+                    营业执照信息
+                </div>
+                <div class="register_radius3_intro register_radius_same" style="left: 620px;">
+                    等待平台信息
+                </div>
+                <!-- 文字说明 -->
+            </div>
+            <!-- 注册栏目 -->
+            <!--注册信息-->
+            <div class="open">
+
+                <div class="open_bg open_bg_divtips" id="open_bg_five">
+                    @* <div class="open_info">
+                    卖家验证状态：</div>*@
+                    <div class="open_mobile_wrap">
+                        @* <div class="open_mobile">
+                    </div>*@
+                        @*<div class="open_mobile_Status">
+                        <strong>@ViewData["Tips"]</strong>
+                    </div>
+                        @if (ViewData["Status"].ToString()=="3")
+                        {
+                        <div class="open_mobile_Status" >
+                            <strong>@ViewData["Remark"]</strong>
+                        </div>
+                        }
+                        <div class="open_accountUsername_check">
+                        </div>*@
+
+                        <br />
+                        <div class="open_mobile_Status"><img src="/images/b.png" style="width:25px;height:25px"/> @ViewData["Tips"] </div>
+                        <br />
+                        @if (ViewData["Status"].ToString() == "3")
+                        {
+                        <div class="open_mobile_Status" >
+                            不通过的理由 @ViewData["Remark"] ,请检查你提交的资料重新提交！<a href="@Url.Action("UpdateStoreTest")" style="border: 1px solid #F3C2C2;" >重新认证</a>
+                        </div>
+                        }
+                        else if (ViewData["Status"].ToString() == "2")
+                        {
+                        <div class="open_mobile_Status" >
+                            @ViewData["Remark"]  <a href="/storeadmin" style="border: 1px solid #F3C2C2;">马上开店</a>
+                        </div>
+                        }
+                        else
+                        {
+                        <div class="open_mobile_Status" >
+                            @ViewData["Remark"]
+                        </div>
+                        }
+
+
+                    </div>
+
+                    @* <div class="open_mobile_wrap">
+                    <div class="open_mobile">
+                    </div>
+                    <div class="open_mobile_Status">
+                        @if (ViewData["Status"].ToString() == "3")
+                        {
+                        <a href="@Url.Action("UpdateStoreTest")" class="open_next_end" >重新编辑资料</a>
+                        }
+                        @*else if (ViewData["Status"].ToString() == "2")
+                        {
+                        <a href="/newuser/newhome" class="open_next_end">返回我的集迈</a>
+                        }
+                        else
+                        {
+                        <a href="/ucenter/orderlist" class="open_next_end">返回我的集迈</a>
+                        }
+
+                    </div>
+                </div>*@
+
+                </div>
+
+            </div>
+            <!--注册信息-->
+
+            <div class="clear">
+            </div>
+        </div>
+        <div class="clear">
+        </div>
+    </div>
+    @Html.Partial("_footerPartial")
+    <script type="text/javascript">
+        $(function () {
+            $(".register_redline").css({ "width": "500px", "left": "153px" });
+
+            $(".open").find(".open_bg").eq(0).css("display", "block");
+            $(".open").find(".open_bg").eq(0).animate({
+                "opacity": 1
+            }, "slow")
+        })();
+        function next() {
+            history.back();
+        }
+    </script>
+</body>
+</html>

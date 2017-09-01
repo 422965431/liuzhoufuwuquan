@@ -1,0 +1,4 @@
+E:\项目\CouponMall\Libraries\CouponMall.Core\bin\Debug\CouponMall.Core.dll
+E:\项目\CouponMall\Libraries\CouponMall.Core\bin\Debug\CouponMall.Core.pdb
+E:\项目\CouponMall\Libraries\CouponMall.Core\obj\Debug\CouponMall.Core.dll
+E:\项目\CouponMall\Libraries\CouponMall.Core\obj\Debug\CouponMall.Core.pdb

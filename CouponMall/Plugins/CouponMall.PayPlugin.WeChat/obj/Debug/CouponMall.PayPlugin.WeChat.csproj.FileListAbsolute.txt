@@ -1,0 +1,15 @@
+E:\项目\CouponMall\Presentation\BrnMall.Web\plugins\BrnMall.PayPlugin.WeChat\db.config
+E:\项目\CouponMall\Presentation\BrnMall.Web\plugins\BrnMall.PayPlugin.WeChat\plugin.config
+E:\项目\CouponMall\Presentation\BrnMall.Web\plugins\BrnMall.PayPlugin.WeChat\views\adminwechat\config.cshtml
+E:\项目\CouponMall\Presentation\BrnMall.Web\plugins\BrnMall.PayPlugin.WeChat\views\wechat\pay.cshtml
+E:\项目\CouponMall\Presentation\BrnMall.Web\plugins\BrnMall.PayPlugin.WeChat\CouponMall.PayPlugin.WeChat.dll
+E:\项目\CouponMall\Presentation\BrnMall.Web\plugins\BrnMall.PayPlugin.WeChat\CouponMall.PayPlugin.WeChat.pdb
+E:\项目\CouponMall\Presentation\CouponMall.Web\plugins\CouponMall.PayPlugin.WeChat\db.config
+E:\项目\CouponMall\Presentation\CouponMall.Web\plugins\CouponMall.PayPlugin.WeChat\plugin.config
+E:\项目\CouponMall\Presentation\CouponMall.Web\plugins\CouponMall.PayPlugin.WeChat\views\adminwechat\config.cshtml
+E:\项目\CouponMall\Presentation\CouponMall.Web\plugins\CouponMall.PayPlugin.WeChat\views\wechat\pay.cshtml
+E:\项目\CouponMall\Presentation\CouponMall.Web\plugins\CouponMall.PayPlugin.WeChat\CouponMall.PayPlugin.WeChat.dll
+E:\项目\CouponMall\Presentation\CouponMall.Web\plugins\CouponMall.PayPlugin.WeChat\CouponMall.PayPlugin.WeChat.pdb
+E:\项目\CouponMall\Plugins\CouponMall.PayPlugin.WeChat\obj\Debug\CouponMall.PayPlugin.WeChat.csprojResolveAssemblyReference.cache
+E:\项目\CouponMall\Plugins\CouponMall.PayPlugin.WeChat\obj\Debug\CouponMall.PayPlugin.WeChat.dll
+E:\项目\CouponMall\Plugins\CouponMall.PayPlugin.WeChat\obj\Debug\CouponMall.PayPlugin.WeChat.pdb

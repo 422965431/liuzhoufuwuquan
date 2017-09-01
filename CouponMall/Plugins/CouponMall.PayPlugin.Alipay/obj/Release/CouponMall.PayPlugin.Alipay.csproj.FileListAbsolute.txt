@@ -1,0 +1,13 @@
+E:\项目\CouponMall\Presentation\BrnMall.Web\plugins\BrnMall.PayPlugin.Alipay\db.config
+E:\项目\CouponMall\Presentation\BrnMall.Web\plugins\BrnMall.PayPlugin.Alipay\plugin.config
+E:\项目\CouponMall\Presentation\BrnMall.Web\plugins\BrnMall.PayPlugin.Alipay\views\adminalipay\config.cshtml
+E:\项目\CouponMall\Presentation\BrnMall.Web\plugins\BrnMall.PayPlugin.Alipay\CouponMall.PayPlugin.Alipay.dll
+E:\项目\CouponMall\Presentation\BrnMall.Web\plugins\BrnMall.PayPlugin.Alipay\CouponMall.PayPlugin.Alipay.pdb
+E:\项目\CouponMall\Plugins\CouponMall.PayPlugin.Alipay\obj\Release\CouponMall.PayPlugin.Alipay.csprojResolveAssemblyReference.cache
+E:\项目\CouponMall\Plugins\CouponMall.PayPlugin.Alipay\obj\Release\CouponMall.PayPlugin.Alipay.dll
+E:\项目\CouponMall\Plugins\CouponMall.PayPlugin.Alipay\obj\Release\CouponMall.PayPlugin.Alipay.pdb
+E:\项目\CouponMall\Presentation\CouponMall.Web\plugins\CouponMall.PayPlugin.Alipay\db.config
+E:\项目\CouponMall\Presentation\CouponMall.Web\plugins\CouponMall.PayPlugin.Alipay\plugin.config
+E:\项目\CouponMall\Presentation\CouponMall.Web\plugins\CouponMall.PayPlugin.Alipay\views\adminalipay\config.cshtml
+E:\项目\CouponMall\Presentation\CouponMall.Web\plugins\CouponMall.PayPlugin.Alipay\CouponMall.PayPlugin.Alipay.dll
+E:\项目\CouponMall\Presentation\CouponMall.Web\plugins\CouponMall.PayPlugin.Alipay\CouponMall.PayPlugin.Alipay.pdb

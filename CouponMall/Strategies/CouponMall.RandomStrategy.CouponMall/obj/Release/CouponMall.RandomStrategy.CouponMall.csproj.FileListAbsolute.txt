@@ -1,0 +1,7 @@
+E:\项目\CouponMall\Presentation\BrnMall.Web\bin\CouponMall.RandomStrategy.BrnMall.dll
+E:\项目\CouponMall\Presentation\BrnMall.Web\bin\CouponMall.RandomStrategy.BrnMall.pdb
+E:\项目\CouponMall\Strategies\CouponMall.RandomStrategy.CouponMall\obj\Release\CouponMall.RandomStrategy.CouponMall.csprojResolveAssemblyReference.cache
+E:\项目\CouponMall\Presentation\CouponMall.Web\bin\CouponMall.RandomStrategy.CouponMall.dll
+E:\项目\CouponMall\Presentation\CouponMall.Web\bin\CouponMall.RandomStrategy.CouponMall.pdb
+E:\项目\CouponMall\Strategies\CouponMall.RandomStrategy.CouponMall\obj\Release\CouponMall.RandomStrategy.CouponMall.dll
+E:\项目\CouponMall\Strategies\CouponMall.RandomStrategy.CouponMall\obj\Release\CouponMall.RandomStrategy.CouponMall.pdb

@@ -1,0 +1,7 @@
+E:\项目\CouponMall\Presentation\BrnMall.Web\bin\CouponMall.EventStrategy.Timer.dll
+E:\项目\CouponMall\Presentation\BrnMall.Web\bin\CouponMall.EventStrategy.Timer.pdb
+E:\项目\CouponMall\Presentation\CouponMall.Web\bin\CouponMall.EventStrategy.Timer.dll
+E:\项目\CouponMall\Presentation\CouponMall.Web\bin\CouponMall.EventStrategy.Timer.pdb
+E:\项目\CouponMall\Strategies\CouponMall.EventStrategy.Timer\obj\Debug\CouponMall.EventStrategy.Timer.csprojResolveAssemblyReference.cache
+E:\项目\CouponMall\Strategies\CouponMall.EventStrategy.Timer\obj\Debug\CouponMall.EventStrategy.Timer.dll
+E:\项目\CouponMall\Strategies\CouponMall.EventStrategy.Timer\obj\Debug\CouponMall.EventStrategy.Timer.pdb

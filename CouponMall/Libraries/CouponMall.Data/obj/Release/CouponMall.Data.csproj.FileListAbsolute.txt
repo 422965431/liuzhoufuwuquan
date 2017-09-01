@@ -1,0 +1,14 @@
+E:\项目\CouponMall\Libraries\CouponMall.Data\bin\Release\CouponMall.Data.dll
+E:\项目\CouponMall\Libraries\CouponMall.Data\bin\Release\CouponMall.Data.pdb
+E:\项目\CouponMall\Libraries\CouponMall.Data\bin\Release\CouponMall.Core.dll
+E:\项目\CouponMall\Libraries\CouponMall.Data\bin\Release\CouponMall.Core.pdb
+E:\项目\CouponMall\Libraries\CouponMall.Data\obj\Release\CouponMall.Data.csprojResolveAssemblyReference.cache
+E:\项目\CouponMall\Libraries\CouponMall.Data\obj\Release\CouponMall.Data.dll
+E:\项目\CouponMall\Libraries\CouponMall.Data\obj\Release\CouponMall.Data.pdb
+E:\柳州服务卷项目\CouponMall\Libraries\CouponMall.Data\bin\Release\CouponMall.Data.dll
+E:\柳州服务卷项目\CouponMall\Libraries\CouponMall.Data\bin\Release\CouponMall.Data.pdb
+E:\柳州服务卷项目\CouponMall\Libraries\CouponMall.Data\bin\Release\CouponMall.Core.dll
+E:\柳州服务卷项目\CouponMall\Libraries\CouponMall.Data\bin\Release\CouponMall.Core.pdb
+E:\柳州服务卷项目\CouponMall\Libraries\CouponMall.Data\obj\Release\CouponMall.Data.csprojResolveAssemblyReference.cache
+E:\柳州服务卷项目\CouponMall\Libraries\CouponMall.Data\obj\Release\CouponMall.Data.dll
+E:\柳州服务卷项目\CouponMall\Libraries\CouponMall.Data\obj\Release\CouponMall.Data.pdb

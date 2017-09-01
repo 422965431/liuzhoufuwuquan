@@ -18,8 +18,8 @@
       <file leaf-file-name="home.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Presentation/CouponMall.Web/views/home/home.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="462">
-              <caret line="274" column="0" lean-forward="true" selection-start-line="274" selection-start-column="0" selection-end-line="274" selection-end-column="0" />
+            <state relative-caret-position="357">
+              <caret line="269" column="44" lean-forward="true" selection-start-line="269" selection-start-column="44" selection-end-line="269" selection-end-column="44" />
               <folding />
             </state>
           </provider>
@@ -29,7 +29,7 @@
         <entry file="file://$PROJECT_DIR$/Presentation/CouponMall.Web/css/home.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="84">
-              <caret line="4" column="13" lean-forward="true" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+              <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -378,12 +378,12 @@
       <updated>1504191518184</updated>
       <workItem from="1504191519767" duration="4061000" />
       <workItem from="1504227554344" duration="1247000" />
-      <workItem from="1504231086254" duration="23000" />
+      <workItem from="1504231086254" duration="92000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5331000" />
+    <option name="totallyTimeSpent" value="5400000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1358" y="-8" width="1936" height="1096" extended-state="6" />
@@ -477,15 +477,15 @@
     <entry file="file://$PROJECT_DIR$/Presentation/CouponMall.Web/css/home.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="84">
-          <caret line="4" column="13" lean-forward="true" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Presentation/CouponMall.Web/views/home/home.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="274" column="0" lean-forward="true" selection-start-line="274" selection-start-column="0" selection-end-line="274" selection-end-column="0" />
+        <state relative-caret-position="357">
+          <caret line="269" column="44" lean-forward="true" selection-start-line="269" selection-start-column="44" selection-end-line="269" selection-end-column="44" />
           <folding />
         </state>
       </provider>

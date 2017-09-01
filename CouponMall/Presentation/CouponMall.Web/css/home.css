@@ -10,8 +10,14 @@ html, body, div, span, applet, object, iframe,h1, h2, h3, h4, h5, h6, p, blockqu
 }
 
 /*global style*/
+body {
+    background: beige;
+}
 ul {
     list-style: none;
+}
+a,a:hover {
+    text-decoration: none;
 }
 .box {
     margin: 0 auto;
@@ -50,13 +56,290 @@ ul {
     float: right;
 }
 
+.headerLink a {
+    font-size: .9em;
+}
+
 .header_nav {
     position: absolute;
     bottom: 5px;
     right: 10%;
 }
 
+.header_nav a {
+    color: #212121
+}
+
+.header_nav a:hover {
+    text-shadow: 1px 1px 5px #515151;
+}
+
 .header_nav ul li {
     float: right;
     margin-left: 5px;
+}
+
+/*summarizing style*/
+.summarizing,.mainPath {
+    border-top: 2px solid #757575;
+    border-bottom: 1px solid #757575;
+    padding: 20px;
+}
+
+.summarizing ul ,.mainPath ul {
+    text-align: center;
+}
+
+.summarizing ul li {
+    display: inline-block;
+    height: 60px;
+    width: 23%;
+    border-left: 1px solid #757575;
+}
+
+.summarizing ul li:first-child {
+    border-left: none;
+    padding-left: 0;
+}
+
+.summarizing ul li em ,.mainPath ul li em {
+    margin-top: 10px;
+}
+
+/*四个主要的导航按钮mainPath*/
+.mainPath {
+    border-top: none;
+}
+
+.mainPath ul li {
+    display: inline-block;
+    height: 60px;
+    width: 18%;
+    margin-left: 5%;
+    border: 2px solid #00b7ee;
+    border-radius: 10px;
+}
+
+.mainPath ul li a {
+    display: inline-block;
+    line-height: 60px;
+    width: 100%;
+    color: #00b7ee;
+}
+
+.mainPath ul li:first-child {
+    margin-left: 0;
+}
+
+/*project recommend style*/
+.floor {
+    padding: 10px;
+    border-bottom: 1px solid #757575;
+}
+
+.floorT {
+    position: relative;
+    margin: 10px 0 15px 0;
+    text-align: center;
+    font-size: 1.2em;
+}
+
+.floorMore {
+    position: absolute;
+    right: 0;
+    bottom: 2px;
+}
+
+.floorB {
+    text-align: center;
+}
+
+.floor1B ul li {
+    display: inline-block;
+    width: 23%;
+}
+
+/*recommendable service style*/
+.floor2B ul li {
+    display: inline-block;
+    width: 15%;
+}
+
+/*hatch flow  style*/
+#floor3 {
+    border-bottom: none;
+    padding: 0;
+}
+
+.floor3B {
+    position: relative;
+    text-align: center;
+    height: 250px;
+    background: url(../images2/BG.jpg) no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.step {
+    display: inline-block;
+    position: absolute;
+}
+
+.step1,.step3 {
+    transform: translateX(-50%) translateY(-50%);
+    -ms-transform: translateX(-50%) translateY(-50%);
+    -moz-transform: translateX(-50%) translateY(-50%);
+    -webkit-transform: translateX(-50%) translateY(-50%);
+    -o-transform: translateX(-50%) translateY(-50%);
+}
+
+.step5,.step7 {
+    transform: translateX(50%) translateY(-50%);
+    -ms-transform: translateX(50%) translateY(-50%);
+    -moz-transform: translateX(50%) translateY(-50%);
+    -webkit-transform: translateX(50%) translateY(-50%);
+    -o-transform: translateX(50%) translateY(-50%);
+}
+
+.step2,.step4 {
+    transform: translateX(-50%) translateY(50%);
+    -ms-transform: translateX(-50%) translateY(50%);
+    -moz-transform: translateX(-50%) translateY(50%);
+    -webkit-transform: translateX(-50%) translateY(50%);
+    -o-transform: translateX(-50%) translateY(50%);
+}
+
+.step1 {
+    left: 10%;
+    top: 30%;
+}
+
+.step3 {
+    left: 36.66%;
+    top: 30%;
+}
+
+.step5 {
+    right: 36.66%;
+    top: 30%;
+}
+
+.step7 {
+    right: 10%;
+    top: 30%;
+}
+
+.step2 {
+    left: 23.33%;
+    bottom: 30%;
+}
+
+.step4 {
+    left: 50%;
+    bottom: 30%;
+}
+
+.step6 {
+    right: 23.33%;
+    bottom: 30%;
+    transform: translateX(50%) translateY(50%);
+    -ms-transform: translateX(50%) translateY(50%);
+    -moz-transform: translateX(50%) translateY(50%);
+    -webkit-transform: translateX(50%) translateY(50%);
+    -o-transform: translateX(50%) translateY(50%);
+}
+
+.arrow {
+    top: 50%;
+    position: absolute;
+}
+.arrow1,.arrow3,.arrow5 {
+    transform: translateY(-50%) rotate(-50deg);
+    -ms-transform: translateY(-50%) rotate(-50deg);
+    -moz-transform: translateY(-50%) rotate(-50deg);
+    -webkit-transform: translateY(-50%) rotate(-50deg);
+    -o-transform: translateY(-50%) rotate(-50deg);
+}
+
+.arrow2,.arrow4,.arrow6 {
+    transform: translateY(-50%) rotate(-130deg);
+    -ms-transform: translateY(-50%) rotate(-130deg);
+    -moz-transform: translateY(-50%) rotate(-130deg);
+    -webkit-transform: translateY(-50%) rotate(-130deg);
+    -o-transform: translateY(-50%) rotate(-130deg);
+}
+
+.arrow1 {
+    left: 13%;
+}
+
+.arrow2 {
+    left: 27%;
+}
+
+.arrow3 {
+    left: 40%;
+}
+
+.arrow4 {
+    left: 53%;
+}
+
+.arrow5 {
+    left: 67%;
+}
+
+.arrow6 {
+    left: 80%;
+}
+
+.step a {
+    display: inline-block;
+    position: relative;
+    width: 80px;
+    height: 80px;
+    text-align: center;
+    border: 2px solid #00b7ee;
+    border-radius: 80px;
+}
+
+.step a span {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    -ms-transform: translateX(-50%) translateY(-50%);
+    -moz-transform: translateX(-50%) translateY(-50%);
+    -webkit-transform: translateX(-50%) translateY(-50%);
+    -o-transform: translateX(-50%) translateY(-50%);
+}
+
+.step a span em {
+    font-weight: bolder;
+    font-size: 1.1em;
+}
+
+    /*footer*/
+#footer {
+    border-top: 2px solid #D22F2F;
+    width: 100%;
+    padding: 20px 10%;
+}
+
+.footT {
+    margin: 15px;
+    text-align: center;
+    font-size: 1.2em;
+}
+
+.footB {
+    padding-bottom: 10px;
+    text-align: center;
+}
+
+.footB ul.listCon li.listItem {
+    display: inline-block;
+    width: 23%;
+    text-align: left;
+    font-size: .9em;
 }
